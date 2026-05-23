@@ -1,2 +1,0 @@
-"""HisBot package."""
-
